@@ -21,9 +21,14 @@ Here are some ideas to get you started:
 
 [Reflector](https://github.com/alxkm/reflector)&nbsp;<img src="https://www.svgrepo.com/show/144446/mirror-horizontally.svg" height="16px" alt="Reflector"/> Java reflection library
 
+[Octograiton](https://github.com/alxkm/octogration)&nbsp;<img src="https://www.svgrepo.com/show/353136/github.svg" height="16px" alt="Octogration"/> Java github integration examples 
+
+[Streamer](https://github.com/alxkm/streamer)&nbsp; Java StreamUtils library
+
 [Leetcode java cheatsheet](https://github.com/alxkm/java-cheatsheet/blob/main/LeetcodeJava.md)&nbsp; useful leetcode java cheatsheet
 
 [Common java cheatsheet](https://github.com/alxkm/java-cheatsheet/blob/main/Common.txt)&nbsp; useful common java cheatsheet 
+
 
 ## My competencies:
 [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
@@ -49,4 +54,7 @@ Here are some ideas to get you started:
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
+
+## If you liked my profile, I will be very appreciate, if you Star ⭐ my repos.
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=footer"/>
