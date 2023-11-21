@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=header"/>
 
-<div style="display: inline">
 ## Hi there 👋
-</div>
 
 <!--
 **alxkm/alxkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,7 +39,6 @@ Here are some ideas to get you started:
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
-[![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![GIT](https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
@@ -52,5 +49,4 @@ Here are some ideas to get you started:
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=footer"/>
