@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+You can find interested in:
+Java reflection library <img src="https://www.svgrepo.com/show/144446/mirror-horizontally.svg" height="16px" alt="Reflector"/>[Reflector](https://github.com/alxkm/reflector)&nbsp;<img src="https://www.svgrepo.com/show/144446/mirror-horizontally.svg" height="16px" alt="Reflector"/>
 
-You can find interested in my lib  <img src="https://www.svgrepo.com/show/144446/mirror-horizontally.svg" height="16px" alt="Reflector"/>[Reflector](https://github.com/alxkm/reflector)&nbsp;<img src="https://www.svgrepo.com/show/144446/mirror-horizontally.svg" height="16px" alt="Reflector"/>
+Useful java cheatsheet for leetcode [Leetcode java cheatsheet](https://github.com/alxkm/java-cheatsheet/blob/main/LeetcodeJava.md)&nbsp;
+Useful common java cheatsheet [Common java cheatsheet](https://github.com/alxkm/java-cheatsheet/blob/main/Common.txt)&nbsp;
+
 ### My competencies:
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
@@ -34,5 +38,6 @@ You can find interested in my lib  <img src="https://www.svgrepo.com/show/144446
 [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories) 
 [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories) 
 [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://github.com/search?q=user%3Aalxkm&type=Repositories)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=footer"/>
