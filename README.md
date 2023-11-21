@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
+[![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![GIT](https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
