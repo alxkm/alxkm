@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 [Octograiton](https://github.com/alxkm/octogration)&nbsp;<img src="https://www.svgrepo.com/show/353136/github.svg" height="16px" alt="Octogration"/> Java github integration examples 
 
+[Java concurrency patterns](https://github.com/alxkm/java-concurrency)&nbsp; Java concurrency patterns and examples 
+
 [Streamer](https://github.com/alxkm/streamer)&nbsp; Java StreamUtils library
 
 [Leetcode java cheatsheet](https://github.com/alxkm/java-cheatsheet/blob/main/LeetcodeJava.md)&nbsp; useful leetcode java cheatsheet
@@ -30,12 +32,13 @@ Here are some ideas to get you started:
 [Common java cheatsheet](https://github.com/alxkm/java-cheatsheet/blob/main/Common.txt)&nbsp; useful common java cheatsheet 
 
 
-## My competencies:
+## My competencies
 [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
+[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black)](https://github.com/search?q=user%3Aalxkm&type=Repositories)
 [![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)
