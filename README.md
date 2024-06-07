@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 [Reflector](https://github.com/alxkm/reflector)&nbsp;<img src="https://www.svgrepo.com/show/144446/mirror-horizontally.svg" height="16px" alt="Reflector"/> Java reflection library
 
-[Octograiton](https://github.com/alxkm/octogration)&nbsp;<img src="https://www.svgrepo.com/show/353136/github.svg" height="16px" alt="Octogration"/> Java github integration examples 
-
 [Java concurrency patterns](https://github.com/alxkm/java-concurrency)&nbsp; Java concurrency patterns and examples 
-
-[Streamer](https://github.com/alxkm/streamer)&nbsp; Java StreamUtils library
 
 [Leetcode java cheatsheet](https://github.com/alxkm/java-cheatsheet/blob/main/LeetcodeJava.md)&nbsp; useful leetcode java cheatsheet
 
 [Common java cheatsheet](https://github.com/alxkm/java-cheatsheet/blob/main/Common.txt)&nbsp; useful common java cheatsheet 
+
+[Octograiton](https://github.com/alxkm/octogration)&nbsp;<img src="https://www.svgrepo.com/show/353136/github.svg" height="16px" alt="Octogration"/> Java github integration examples 
+
+[Streamer](https://github.com/alxkm/streamer)&nbsp; Java StreamUtils library
 
 
 ## My competencies
