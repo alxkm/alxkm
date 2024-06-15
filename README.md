@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 -->
 #### You can find interested my code repos:
 
-
 [Reflector](https://github.com/alxkm/reflector)&nbsp;<img src="https://www.svgrepo.com/show/144446/mirror-horizontally.svg" height="16px" alt="Reflector"/> Java reflection library
 
 [Java concurrency patterns](https://github.com/alxkm/java-concurrency)&nbsp; Java concurrency patterns and examples 
 
 [Streamer](https://github.com/alxkm/streamer)&nbsp; Java StreamUtils library
+
+[Cache](https://github.com/alxkm/cache)&nbsp;<img src="https://www.svgrepo.com/show/353136/github.svg" height="16px" alt="Octogration"/> Simple cache Java implementation
 
 [Leetcode java cheatsheet](https://github.com/alxkm/java-cheatsheet/blob/main/LeetcodeJava.md)&nbsp; useful leetcode java cheatsheet
 
