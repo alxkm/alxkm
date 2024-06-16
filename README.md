@@ -18,19 +18,19 @@ Here are some ideas to get you started:
 -->
 #### You can find interested my code repos:
 
-[Reflector](https://github.com/alxkm/reflector)&nbsp;<img src="https://www.svgrepo.com/show/144446/mirror-horizontally.svg" height="16px" alt="Reflector"/> Java reflection library
+<img src="https://www.svgrepo.com/show/144446/mirror-horizontally.svg" height="16px" alt="Reflector"/> &nbsp;[Reflector](https://github.com/alxkm/reflector) Java reflection library
 
-[Java concurrency patterns](https://github.com/alxkm/java-concurrency) <img src="https://www.svgrepo.com/show/503346/flow.svg" height="16px" alt="concurrency"/> Java concurrency patterns and examples 
+<img src="https://www.svgrepo.com/show/503346/flow.svg" height="16px" alt="concurrency"/> &nbsp;[Java concurrency patterns](https://github.com/alxkm/java-concurrency) Java concurrency patterns and examples 
 
-[Streamer](https://github.com/alxkm/streamer) 🌊 Java StreamUtils library
+🌊 [Streamer](https://github.com/alxkm/streamer) Java StreamUtils library
 
-[Cache](https://github.com/alxkm/cache) <img src="https://www.svgrepo.com/show/443368/brand-redis.svg" height="16px" alt="cache"/> Simple cache Java implementation
+<img src="https://www.svgrepo.com/show/443368/brand-redis.svg" height="16px" alt="cache"/> [Cache](https://github.com/alxkm/cache)  Simple cache Java implementation
 
-[Leetcode java cheatsheet](https://github.com/alxkm/java-cheatsheet/blob/main/LeetcodeJava.md) <img src="https://www.svgrepo.com/show/306328/leetcode.svg" height="16px" alt="leetcode"/> useful leetcode java cheatsheet
+<img src="https://www.svgrepo.com/show/306328/leetcode.svg" height="16px" alt="leetcode"/> [Leetcode java cheatsheet](https://github.com/alxkm/java-cheatsheet/blob/main/LeetcodeJava.md) Leetcode java cheatsheet
 
-[Common java cheatsheet](https://github.com/alxkm/java-cheatsheet/blob/main/Common.txt) <img src="https://www.svgrepo.com/show/452234/java.svg" height="16px" alt="java"/> useful common java cheatsheet 
+<img src="https://www.svgrepo.com/show/452234/java.svg" height="16px" alt="java"/> [Common java cheatsheet](https://github.com/alxkm/java-cheatsheet/blob/main/Common.txt) Java common cheatsheet 
 
-[Octograiton](https://github.com/alxkm/octogration)&nbsp;<img src="https://www.svgrepo.com/show/353136/github.svg" height="16px" alt="Octogration"/> Java github integration examples 
+<img src="https://www.svgrepo.com/show/353136/github.svg" height="16px" alt="Octogration"/> [Octograiton](https://github.com/alxkm/octogration)&nbsp; Java github integration examples 
 
 
 ## My competencies
