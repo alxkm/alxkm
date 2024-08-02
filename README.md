@@ -1,4 +1,6 @@
+<!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=header"/>
+-->
 
 ## Hi there 👋
 
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### You can find interested my code repos:
+#### You might be interested in my code repositories:
 
 <img src="https://www.svgrepo.com/show/144446/mirror-horizontally.svg" height="16px" alt="Reflector"/> &nbsp;[Reflector](https://github.com/alxkm/reflector) Java reflection library
 
@@ -30,8 +32,11 @@ Here are some ideas to get you started:
 
 <img src="https://www.svgrepo.com/show/452234/java.svg" height="16px" alt="java"/> [Common java cheatsheet](https://github.com/alxkm/java-cheatsheet/blob/main/Common.txt) Java common cheatsheet 
 
-<img src="https://www.svgrepo.com/show/353136/github.svg" height="16px" alt="Octogration"/> [Octograiton](https://github.com/alxkm/octogration)&nbsp; Java github integration examples 
+<img src="https://www.svgrepo.com/show/353136/github.svg" height="16px" alt="A"/> [My articles](https://github.com/alxkm/articles)&nbsp; My articles
 
+<!--
+<img src="https://www.svgrepo.com/show/353136/github.svg" height="16px" alt="Octogration"/> [Octograiton](https://github.com/alxkm/octogration)&nbsp; Java github integration examples 
+-->
 
 ## My competencies
 [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
@@ -59,6 +64,8 @@ Here are some ideas to get you started:
 [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 
-## If you liked my profile, I will be very appreciate, if you Star ⭐ my repos.
+## If you liked my profile, I would be very grateful if you put a star ⭐ on my repos.
 
+<!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=footer"/>
+-->
