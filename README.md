@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <!--
 <img src="https://www.svgrepo.com/show/353136/github.svg" height="16px" alt="Octogration"/> [Octograiton](https://github.com/alxkm/octogration)&nbsp; Java github integration examples 
 -->
-
+<!--
 ## My competencies
 [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://github.com/search?q=user%3Aalxkm&type=Repositories)&nbsp;
-
+-->
 ## If you liked my profile, I would be very grateful if you put a star ⭐ on my repos.
 
 <!--
