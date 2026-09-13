@@ -3,20 +3,20 @@ the layer underneath the API you are calling.
 
 ### Libraries
 
-:thread: **[java-concurrency-patterns](https://github.com/alxkm/java-concurrency-patterns)**
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f5.png" height="16" alt="threads" /> **[java-concurrency-patterns](https://github.com/alxkm/java-concurrency-patterns)**
 Concurrency examples that are measured, not asserted. Every performance claim has a benchmark
 behind it, every antipattern has a test that catches it failing, and the memory model section
 proves its point with jcstress instead of prose.
 
-:card_file_box: **[evictor](https://github.com/alxkm/evictor)**
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c3.png" height="16" alt="cache" /> **[evictor](https://github.com/alxkm/evictor)**
 Thirteen cache eviction policies behind one interface, with a harness that measures them against
 each other on the same traffic. Open it when you want to know what LRU is costing you.
 
-:mirror: **[reflector](https://github.com/alxkm/reflector)**
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa9e.png" height="16" alt="reflection" /> **[reflector](https://github.com/alxkm/reflector)**
 A small layer over the Java Reflection API: read fields and methods, select annotated members,
 build instances, dump an object to a map. Targets Java 8.
 
-:ocean: **[streamer](https://github.com/alxkm/streamer)**
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30a.png" height="16" alt="streams" /> **[streamer](https://github.com/alxkm/streamer)**
 The collectors and stream helpers the JDK left out, in one utility class.
 
 ### Writing
