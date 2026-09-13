@@ -12,7 +12,7 @@ proves its point with jcstress instead of prose.
 Thirteen cache eviction policies behind one interface, with a harness that measures them against
 each other on the same traffic. Open it when you want to know what LRU is costing you.
 
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa9e.png" height="16" alt="reflection" /> **[reflector](https://github.com/alxkm/reflector)**
+<img src="https://www.svgrepo.com/show/144446/mirror-horizontally.svg" height="16" alt="reflection" /> **[reflector](https://github.com/alxkm/reflector)**
 A small layer over the Java Reflection API: read fields and methods, select annotated members,
 build instances, dump an object to a map. Targets Java 8.
 
