@@ -19,6 +19,13 @@ build instances, dump an object to a map. Targets Java 8.
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30a.png" height="16" alt="streams" /> **[streamer](https://github.com/alxkm/streamer)**
 The collectors and stream helpers the JDK left out, in one utility class.
 
+### Examples
+
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png" height="16" alt="ai" /> **[java-ai-cookbook](https://github.com/alxkm/java-ai-cookbook)**
+Eighteen LLM patterns - RAG, agents, MCP, tool calling, guardrails, evals - each written twice,
+once in Spring AI and once in LangChain4j, so the two frameworks can be compared on identical
+ground. One folder per recipe, one command to run it, and tests that pass with no API key.
+
 ### Writing
 
 I publish on [Medium](https://medium.com/@alxkm), mostly about the JVM and what it does with the
