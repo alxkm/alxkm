@@ -1,6 +1,6 @@
-Java engineer. Small libraries you can read in one sitting.
+Software engineer.
 
-### Libraries
+### Libraries <sub><sub>small enough to read in one sitting</sub></sub>
 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f5.png" height="16" alt="threads" /> **[java-concurrency-patterns](https://github.com/alxkm/java-concurrency-patterns)** - concurrency patterns, benchmarked and tested<br>
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c3.png" height="16" alt="cache" /> **[evictor](https://github.com/alxkm/evictor)** - 13 cache eviction policies, one interface<br>
